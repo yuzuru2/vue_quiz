@@ -4,9 +4,6 @@
 
 vueで書いた永遠に続くクソクイズのソースです。
 
-## 成果物
-https://competent-neumann-9d6260.netlify.com/
-
 ## セットアップ
 
 ```
